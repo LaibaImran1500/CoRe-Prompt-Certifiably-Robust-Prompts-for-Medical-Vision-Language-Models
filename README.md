@@ -23,7 +23,6 @@ Everything needed to reproduce every table and figure of the paper:
 | Random seeds | `seed` in every configuration (paper: seed 0 for the few-shot draw, the test subset, noise and attacks) |
 | Raw results | `results/` (see below) |
 | Unit tests | `tests/` |
-| Paper sources | `paper/main.tex`, `paper/sn-bibliography.bib` |
 
 ### Raw results (`results/`)
 
